@@ -38,8 +38,3 @@ To start the game, run the following command in your terminal:
 ```
 python src/main.py
 ```
-
-## License
-
-This project is open-source and available under the MIT License."# tic-tac-toe-ai" 
-"# tic-tac-toe-ai" 
